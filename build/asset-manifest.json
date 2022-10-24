@@ -1,0 +1,15 @@
+{
+  "main.css": "/heroku-smartbrain/static/css/main.7e6cc4eb.chunk.css",
+  "main.js": "/heroku-smartbrain/static/js/main.c84daf60.chunk.js",
+  "main.js.map": "/heroku-smartbrain/static/js/main.c84daf60.chunk.js.map",
+  "static/css/1.63891cc5.chunk.css": "/heroku-smartbrain/static/css/1.63891cc5.chunk.css",
+  "static/js/1.75a6b3e4.chunk.js": "/heroku-smartbrain/static/js/1.75a6b3e4.chunk.js",
+  "static/js/1.75a6b3e4.chunk.js.map": "/heroku-smartbrain/static/js/1.75a6b3e4.chunk.js.map",
+  "runtime~main.js": "/heroku-smartbrain/static/js/runtime~main.b6fa10d7.js",
+  "runtime~main.js.map": "/heroku-smartbrain/static/js/runtime~main.b6fa10d7.js.map",
+  "static/css/1.63891cc5.chunk.css.map": "/heroku-smartbrain/static/css/1.63891cc5.chunk.css.map",
+  "static/css/main.7e6cc4eb.chunk.css.map": "/heroku-smartbrain/static/css/main.7e6cc4eb.chunk.css.map",
+  "index.html": "/heroku-smartbrain/index.html",
+  "precache-manifest.49633fba59df8cd04320f42573eef95e.js": "/heroku-smartbrain/precache-manifest.49633fba59df8cd04320f42573eef95e.js",
+  "service-worker.js": "/heroku-smartbrain/service-worker.js"
+}
